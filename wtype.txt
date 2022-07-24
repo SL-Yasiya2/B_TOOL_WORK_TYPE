@@ -1,1 +1,1 @@
-WORK_TYPE:public
+WORK_TYPE:private
